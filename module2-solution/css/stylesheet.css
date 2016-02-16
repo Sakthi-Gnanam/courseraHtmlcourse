@@ -22,6 +22,7 @@ section{
 	background: white;
 	border: 1px dotted black;
 	border-radius: 5px; 
+	width: inherit;
 }
 .imagesHolder{
 	
